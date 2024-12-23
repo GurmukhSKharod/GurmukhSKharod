@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 
-![](https://skillicons.dev/icons?i=python,javascript,java,react,pandas,matplotlib,scikit,git,github,c,c++,html,css,sqlite,mysql,postgres,mongodb,nodejs,expressjs,linux,windows,mac,rust,tailwind,redux)
+![](https://skillicons.dev/icons?i=python,javascript,java,react,pandas,matplotlib,scikit,git,github,c,c++,haskell,html,css,jquery,sqlite,mysql,postgres,mongodb,nodejs,expressjs,linux,windows,mac,rust,tailwind,redux)
 
 ## Additional Skills and Tools
 
-![](https://skillicons.dev/icons?i=figma,androidstudio,visualstudio,intellij,haskell,jquery)
+![](https://skillicons.dev/icons?i=figma,androidstudio,visualstudio,intellij)
