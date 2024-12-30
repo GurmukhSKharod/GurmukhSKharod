@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 🌎 Now I would like to apply my passion for software development on large-scale projects, that will be able to provide a great experience for its users.
 
+## Portfolio
+
+Check out my personal portfolio: https://gurmukh-kharod-portfolio.netlify.app/ 
+
 ## Languages and Tools
 
 ![](https://skillicons.dev/icons?i=python,javascript,java,react,pandas,matplotlib,scikit,git,github,c,c++,haskell,html,css,jquery,sqlite,mysql,postgres,mongodb,nodejs,expressjs,linux,windows,mac,rust,tailwind)
