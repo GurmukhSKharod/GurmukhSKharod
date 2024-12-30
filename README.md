@@ -29,7 +29,7 @@ Check out my personal portfolio: https://gurmukh-kharod-portfolio.netlify.app/
 
 ![](https://skillicons.dev/icons?i=python,pandas,matplotlib,scikit)
 
-![](https://skillicons.dev/icons?i=java,c,c++,haskell,rust)
+![](https://skillicons.dev/icons?i=java,c++,c++,haskell,rust)
 
 ![](https://skillicons.dev/icons?i=html,css,javascript,react,jquery,nodejs,expressjs,tailwind)
 
