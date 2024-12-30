@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👨‍💻 I'm a third year Software Systems student at Simon Fraser University, interested in full-stack software development. 
 
-🌱 As such, I have found myself undertaking several technologies, such as various JavaScript frameworks, Android Development using Java, and API management. I have completed several applications that implement technologies such as ReactJS, as well as database and API management strategies to create web servers and mobile applications.
+🌱 As such, I have found myself undertaking several technologies, such as various JavaScript frameworks, Android Development using Java, and API management with C++. I have completed several applications that implement technologies such as ReactJS, as well as database and API management strategies to create web servers and mobile applications.
 
 🌎 Now I would like to apply my passion for software development on large-scale projects, that will be able to provide a great experience for its users.
 
