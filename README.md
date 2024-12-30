@@ -27,7 +27,17 @@ Check out my personal portfolio: https://gurmukh-kharod-portfolio.netlify.app/
 
 ## Languages and Tools
 
-![](https://skillicons.dev/icons?i=python,javascript,java,react,pandas,matplotlib,scikit,git,github,c,c++,haskell,html,css,jquery,sqlite,mysql,postgres,mongodb,nodejs,expressjs,linux,windows,mac,rust,tailwind)
+![](https://skillicons.dev/icons?i=python,pandas,matplotlib,scikit)
+
+![](https://skillicons.dev/icons?i=java,c,c++,haskell,rust)
+
+![](https://skillicons.dev/icons?i=html,css,javascript,react,jquery,nodejs,expressjs,tailwind)
+
+![](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)
+
+![](https://skillicons.dev/icons?i=git,github)
+
+![](https://skillicons.dev/icons?i=linux,windows,mac)
 
 ## Additional Skills and Tools
 
