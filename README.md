@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 Check out my personal portfolio: https://gurmukh-kharod-portfolio.netlify.app/ 
 
+## SFU Education Github
+
+And be sure to check out my second Github to see my other projects: https://github.sfu.ca/gsk13
+
 ## Languages and Tools
 
 ![](https://skillicons.dev/icons?i=python,java,c,cpp,haskell,rust)
