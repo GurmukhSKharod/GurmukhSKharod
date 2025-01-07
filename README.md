@@ -43,4 +43,4 @@ And be sure to check out my second Github to see my other projects: https://gith
 
 ## Additional Skills and Tools
 
-![](https://skillicons.dev/icons?i=figma,androidstudio,visualstudio,jetbrains,eclipse)
+![](https://skillicons.dev/icons?i=figma,androidstudio,visualstudio,eclipse)
