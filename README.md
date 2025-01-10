@@ -33,7 +33,8 @@ And be sure to check out my second Github to see my other projects: https://gith
 
 ## Languages and Tools
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurmukhSKharod&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurmukhSKharod&langs_count=5&layout=compact&theme=default)
+
 
 ![](https://skillicons.dev/icons?i=python,java,c,cpp,haskell,rust)
 
