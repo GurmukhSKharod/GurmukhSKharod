@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌎 Now I would like to apply my passion for software development on large-scale projects, that will be able to provide a great experience for its users.
 
-![GurmukhSKharod's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurmukhSKharod&show_icons=true&theme=radical)      
+![GurmukhSKharod GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurmukhSKharod&show_icons=true&theme=radical)      
 
 ## Portfolio
 
@@ -33,7 +33,7 @@ And be sure to check out my second Github to see my other projects: https://gith
 
 ## Languages and Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurmukhSKharod&langs_count=5&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurmukhSKharod&langs_count=10&layout=compact&theme=default)
 
 
 ![](https://skillicons.dev/icons?i=python,java,c,cpp,haskell,rust)
