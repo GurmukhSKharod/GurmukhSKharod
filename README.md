@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 🌎 Now I would like to apply my passion for software development on large-scale projects, that will be able to provide a great experience for its users.
 
+![GurmukhSKharod's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurmukhSKharod&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurmukhSKharod&layout=compact&theme=default)
+
 ## Portfolio
 
 Check out my personal portfolio: https://gurmukh-kharod-portfolio.netlify.app/ 
