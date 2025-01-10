@@ -1,8 +1,4 @@
-
-
 ## Hi there 👋, I'm Gurmukh Kharod
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <!--
 **GurmukhSKharod/GurmukhSKharod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,3 +48,5 @@ And be sure to check out my second Github to see my other projects: https://gith
 ## Additional Skills and Tools
 
 ![](https://skillicons.dev/icons?i=figma,androidstudio,visualstudio,eclipse)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
