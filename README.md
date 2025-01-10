@@ -23,18 +23,16 @@ Here are some ideas to get you started:
 
 <!--![GurmukhSKharod's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurmukhSKharod&show_icons=true&hide=pull_requests,issues&theme=radical)-->
 
-## Portfolio
+## Portfolio 🎨
 
 Check out my personal portfolio: https://gurmukh-kharod-portfolio.netlify.app/ 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GurmukhSKharod&theme=radical)
 
-
-## SFU Education Github
+## SFU Education Github 🖥️
 
 And be sure to check out my second Github to see my other projects: https://github.sfu.ca/gsk13
 
-## Languages and Tools
+## Languages and Tools 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurmukhSKharod&layout=compact&theme=radical)
 
@@ -48,8 +46,8 @@ And be sure to check out my second Github to see my other projects: https://gith
 
 ![](https://skillicons.dev/icons?i=linux,windows,mac)
 
-## Additional Skills and Tools
-
 ![](https://skillicons.dev/icons?i=figma,androidstudio,visualstudio,eclipse)
+
+## Thanks For Checking Out My Profile
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
