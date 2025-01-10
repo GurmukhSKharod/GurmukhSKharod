@@ -1,3 +1,5 @@
+<img src="https://via.placeholder.com/1200x400.png?text=Welcome+to+My+Profile" alt="Profile Banner" />
+
 ## Hi there 👋, I'm Gurmukh Kharod
 
 <!--
