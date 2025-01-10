@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 Check out my personal portfolio: https://gurmukh-kharod-portfolio.netlify.app/ 
 
-![GurmukhSKharod's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GurmukhSKharod&theme=radical)
 
 
 ## SFU Education Github
